@@ -58,7 +58,7 @@ IBM Watson Studio – AutoAI, Notebook, Deployment
 
 Python – Data processing & modeling
 
-Libraries: Scikit-learn, XGBoost, LightGBM, Pandas, NumPy
+Libraries: Scikit-learn, XGBoost,  Pandas, NumPy
 
 GitHub – Version control & submission
 
@@ -90,9 +90,7 @@ Ensemble Techniques:
 
 ✅ XGBoost Regressor
 
-✅ LightGBM Regressor
-
-✅ Combined using Stacking Regressor (final output)
+✅ Boosting
 
 
 
@@ -100,9 +98,7 @@ Ensemble Techniques:
 
 📈 Slide 8: Model Performance
 
-Trained on Watson AutoAI and Notebook
-
-Evaluation metrics: MAE, RMSE
+Evaluation metrics: MAE, RMSE,RR
 
 Stacking ensemble showed higher accuracy than individual models
 
