@@ -1,0 +1,154 @@
+🎯 Slide 1: Title Slide
+
+Title: Salary Prediction Using Ensemble Learning
+Subtitle: Powered by IBM Watson & Machine Learning
+Presented by: Divyanshi Singh
+Date: [1_08_2025]
+
+
+---
+
+📌 Slide 2: Project Overview
+
+Objective:
+To build a machine learning model that predicts salaries based on job and company features using advanced ensemble techniques like Random Forest, XGBoost, and LightGBM.
+
+
+---
+
+📂 Slide 3: Dataset Description
+
+Source: Kaggle Dataset
+Total Rows: 245
+Total Columns: 11
+
+Key Features:
+
+Work Year
+
+Experience Level
+
+Employment Type
+
+Job Title
+
+Salary & Salary in USD
+
+Employee Residence
+
+Remote Ratio
+
+Company Location & Size
+
+
+
+---
+
+🔍 Slide 4: Problem Statement
+
+Many job seekers and HR professionals face difficulty in understanding market salary trends.
+Goal: Predict accurate salary ranges based on multiple factors using ensemble learning models.
+
+
+---
+
+⚙ Slide 5: Tools & Technologies
+
+IBM Watson Studio – AutoAI, Notebook, Deployment
+
+Python – Data processing & modeling
+
+Libraries: Scikit-learn, XGBoost, LightGBM, Pandas, NumPy
+
+GitHub – Version control & submission
+
+VS Code – Notebook editing
+
+
+
+---
+
+🔬 Slide 6: Data Preprocessing
+
+Handled categorical variables using Label Encoding
+
+Checked for missing/null values
+
+Converted currency fields
+
+Feature selection based on importance
+
+
+
+---
+
+🧠 Slide 7: Models Used
+
+Ensemble Techniques:
+
+✅ Random Forest Regressor
+
+✅ XGBoost Regressor
+
+✅ LightGBM Regressor
+
+✅ Combined using Stacking Regressor (final output)
+
+
+
+---
+
+📈 Slide 8: Model Performance
+
+Trained on Watson AutoAI and Notebook
+
+Evaluation metrics: MAE, RMSE
+
+Stacking ensemble showed higher accuracy than individual models
+
+
+
+---
+
+🧪 Slide 9: Project Outputs
+
+Jupyter Notebook (.ipynb)
+
+Cleaned Dataset (.csv)
+
+Requirements File
+
+Hosted on GitHub
+
+Ready for deployment using Streamlit (planned)
+
+
+
+---
+
+🚀 Slide 10: Future Scope
+
+Add real-time prediction using Streamlit Web App
+
+Visualize model insights (feature importance, prediction confidence)
+
+Include video data or broader datasets for better prediction range
+
+
+
+---
+
+✅ Slide 11: Conclusion
+
+This project demonstrates the strength of ensemble learning in solving real-world prediction problems.
+Aimed to deliver accurate and scalable salary predictions using a clean and explainable ML pipeline.
+
+
+---
+
+🔗 Slide 12: GitHub Repository
+
+GitHub Link:
+https://github.com/Divyanshi27-singh/Salary_Prediction
+
+
