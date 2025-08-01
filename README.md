@@ -47,6 +47,7 @@ Each record in the dataset includes:
 - XGBoost  
 - Lale  
 - Matplotlib (for visualization)
+- Streamlit
 
 ---
 
@@ -56,7 +57,7 @@ IBM AutoAI automatically performed the following:
 
 - Data preprocessing  
 - Feature engineering  
-- Model selection (XGBoost, Random Forest, etc.)  
+- Model selection (GradientBoostingRegressor , Random Forest)  
 - Hyperparameter optimization  
 - Evaluation
 
@@ -65,8 +66,5 @@ The best performing model was selected and used for predictions.
 ---
 
 ## 📝 Requirements
-
-To run the notebook locally (outside Watson), install the following packages:
-
-```bash
 pip install -r requirements.txt
+Streamlit run app.py
