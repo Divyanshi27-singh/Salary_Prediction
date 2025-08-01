@@ -39,14 +39,11 @@ Each record in the dataset includes:
 
 ## ⚙ Tools & Technologies Used
 
-- Python  
-- IBM Watson Studio  
-- AutoAI  
+- Python    
 - Pandas, NumPy  
 - Scikit-learn  
-- XGBoost  
-- Lale  
-- Matplotlib (for visualization)
+- XGBoost   
+- Matplotlib 
 - Streamlit
 
 ---
@@ -57,7 +54,7 @@ IBM AutoAI automatically performed the following:
 
 - Data preprocessing  
 - Feature engineering  
-- Model selection (GradientBoostingRegressor , Random Forest)  
+- Voting Regressor(combining Random Forest and Gradient Boosting)
 - Hyperparameter optimization  
 - Evaluation
 
