@@ -42,7 +42,10 @@ Each record in the dataset includes:
 - Python    
 - Pandas, NumPy  
 - Scikit-learn  
-- XGBoost   
+- Random Forest
+- Boosting
+- Voting
+- Machine Learning  
 - Matplotlib 
 - Streamlit
 
@@ -60,8 +63,9 @@ IBM AutoAI automatically performed the following:
 
 The best performing model was selected and used for predictions.
 
----
+📊 Model Performance
 
-## 📝 Requirements
-pip install -r requirements.txt
-Streamlit run app.py
+- **Mean Absolute Error (MAE):** ~13807
+- **Mean Squared Error (MSE):** ~702,170,616
+- **R² Score:** ~0.89
+
