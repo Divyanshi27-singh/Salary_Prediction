@@ -1,6 +1,23 @@
-pandas
-numpy
-scikit-learn
-streamlit
-joblib
-txt
+```txt
+pandas==2.2.1
+numpy==1.26.4
+scikit-learn==1.4.2
+streamlit==1.35.0
+joblib==1.4.2
+
+
+
+
+🚀 How to Run the Project
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Divyanshi27-singh/Salary_Prediction.git
+cd Salary_Prediction
+
+
+
+pip install -r requirements.txt
+
+streamlit run app.py
